@@ -1,3 +1,5 @@
+The GitHub repo is a read-only mirror of the [I2P GitLab](https://i2pgit.org/zlatinb/muwire-seedbox-console) repo.
+
 # MuWire Seedbox Console
 
 Web console that manages one or more MuWire seedbox daemons.
